@@ -1,0 +1,8 @@
+https://developers.arcgis.com/android/10-2/guide/create-an-offline-map.htm
+(In this case it is important to use  
+
+https://www.mapbox.com/android-sdk/examples/offline-map/
+In this case it is important to use mapbox inside the app, so I don't have to do anything, just use the app.
+
+Question:
+1. How can I put over the map an option to open and obtain more info?.
